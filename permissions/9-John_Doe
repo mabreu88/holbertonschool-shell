@@ -1,0 +1,2 @@
+#!/bin/bash
+chmon 732 hello
