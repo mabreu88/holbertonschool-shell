@@ -1,3 +1,87 @@
+SHELL, BASICS
+
+
+In this module we learnt about shell, basic concepts. 
+The learning objetives are:
+
+- GENERAL
+
+What does RTFM mean?
+What is a Shebang
+
+- WHAT IS THE SHELL?
+
+What is the shell
+What is the difference between a terminal and a shell
+What is the shell prompt
+How to use the history (the basics)
+
+- NAVIGATION
+
+What do the commands or built-ins cd, pwd, ls do
+How to navigate the filesystem
+What are the . and .. directories
+What is the working directory, how to print it and how to change it
+What is the root directory
+What is the home directory, and how to go there
+What is the difference between the root directory and the home directory of the user root
+What are the characteristics of hidden files and how to list them
+What does the command cd - do
+
+- LOOKING AROUND
+
+What do the commands ls, less, file do
+How do you use options and arguments with commands
+Understand the ls long format and how to display it
+A Guided Tour
+What does the ln command do
+What do you find in the most common/important directories
+What is a symbolic link
+What is a hard link
+What is the difference between a hard link and a symbolic link
+
+- MANIPULATING FILES
+
+What do the commands cp, mv, rm, mkdir do
+What are wildcards and how do they work
+How to use wildcards
+
+- WORKING WITH COMMANDS
+
+What do type, which, help, man commands do
+What are the different kinds of commands
+What is an alias
+When do you use the command help instead of man
+
+- READING MAN PAGES
+
+How to read a man page
+What are man page sections
+What are the section numbers for User commands, System calls and Library functions
+
+- KEYBOARD SHORTCUTS FOR BASH
+
+Common shortcuts for Bash
+
+- LTS
+
+What does LTS mean? 
+
+RESOURCES:
+
+http://linuxcommand.org/lc3_lts0010.php
+http://linuxcommand.org/lc3_lts0020.php
+http://linuxcommand.org/lc3_lts0030.php
+http://linuxcommand.org/lc3_lts0040.php
+http://linuxcommand.org/lc3_lts0050.php
+http://linuxcommand.org/lc3_lts0060.php
+http://linuxcommand.org/lc3_man_pages/man1.html
+https://www.howtogeek.com/181/keyboard-shortcuts-for-bash-command-shell-for-ubuntu-debian-suse-redhat-linux-etc/
+https://wiki.ubuntu.com/LTS
+https://en.wikipedia.org/wiki/Shebang_%28Unix%29
+
+TASKS:
+
 0. Where am I?
 - create a script that displays the working directory
 1. What’s in there?
