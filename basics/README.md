@@ -69,16 +69,16 @@ What does LTS mean?
 
 RESOURCES:
 
-http://linuxcommand.org/lc3_lts0010.php
-http://linuxcommand.org/lc3_lts0020.php
-http://linuxcommand.org/lc3_lts0030.php
-http://linuxcommand.org/lc3_lts0040.php
-http://linuxcommand.org/lc3_lts0050.php
-http://linuxcommand.org/lc3_lts0060.php
-http://linuxcommand.org/lc3_man_pages/man1.html
-https://www.howtogeek.com/181/keyboard-shortcuts-for-bash-command-shell-for-ubuntu-debian-suse-redhat-linux-etc/
-https://wiki.ubuntu.com/LTS
-https://en.wikipedia.org/wiki/Shebang_%28Unix%29
+- http://linuxcommand.org/lc3_lts0010.php
+- http://linuxcommand.org/lc3_lts0020.php
+- http://linuxcommand.org/lc3_lts0030.php
+- http://linuxcommand.org/lc3_lts0040.php
+- http://linuxcommand.org/lc3_lts0050.php
+- http://linuxcommand.org/lc3_lts0060.php
+- http://linuxcommand.org/lc3_man_pages/man1.html
+- https://www.howtogeek.com/181/keyboard-shortcuts-for-bash-command-shell-for-ubuntu-debian-suse-redhat-linux-etc/
+- https://wiki.ubuntu.com/LTS
+- https://en.wikipedia.org/wiki/Shebang_%28Unix%29
 
 TASKS:
 
