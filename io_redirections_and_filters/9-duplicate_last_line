@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -10 duplicate  
+echo tail -n 1 >> iacta   
